@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(196, 181, 181);
+}
+h2{
+   color: rgb(230, 0, 0);
+   margin-left: 50px;
+   
+}
+img{
+  margin-left: 40px;
+}
+div.solid{
+  border-style: solid;
+  background-color: brown;
+}
+h1{
+  background-color: brown;
+}
+.link{
+  color: #1bbe36;
+}
