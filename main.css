@@ -1,7 +1,7 @@
 body{
   background-color: rgb(196, 181, 181);
 }
-h2{
+.style{
    color: rgb(112, 226, 140);
    margin-left: 50px;
    background-color: rgb(43, 39, 39)
@@ -13,9 +13,7 @@ div.solid{
   border-style: solid;
   background-color: rgb(0, 0, 0);
 }
-h1{
-  background-color: rgb(43, 39, 39)
-  color: rgb(112, 226, 140);
+
 }
 .link{
   color: #085675;
